@@ -58,4 +58,3 @@ To find out where the business makes and loses money, and to present the answer 
 
 ## Author
 Kumkum
-Business Development Executive transitioning into Data Analytics
