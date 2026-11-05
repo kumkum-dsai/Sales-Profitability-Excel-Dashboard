@@ -44,6 +44,7 @@ To find out where the business makes and loses money, and to present the answer 
 - Profitability and discount analysis
 
 ## Dashboard Preview
+<img width="610" height="500" alt="image" src="https://github.com/user-attachments/assets/00539ab6-732e-4383-998e-00e619a858da" />
 
 
 ## Files
